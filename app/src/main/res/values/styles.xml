@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="item_tab_bar">
+        <attr name="bar_text" format="string" />
+        <attr name="bar_select" format="boolean" />
+    </declare-styleable>
+</resources>

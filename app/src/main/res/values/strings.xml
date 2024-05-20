@@ -1,0 +1,130 @@
+<resources>
+    <string name="app_name">Trusted VPN</string>
+    <string name="facebook_app_id" translatable="false">568177784273026</string>
+    <string name="position">position</string>
+    <string name="menu_title_home">Home</string>
+    <string name="txt_home_upgrade">Upgrade</string>
+    <string name="txt_home_disconnected">Disconnected</string>
+    <string name="txt_home_connect_now">Connect now</string>
+    <string name="txt_home_current_location">Current Location</string>
+    <string name="txt_home_select_vpn">Select VPN</string>
+    <string name="txt_home_connected">Connected</string>
+    <string name="txt_home_download">Download</string>
+    <string name="txt_home_upload">Upload</string>
+    <string name="txt_home_timer_disconnect">00 : 00 : 00</string>
+    <string name="txt_home_speed_default"><b>00.0</b> Kb/s</string>
+    <string name="txt_home_no_network">You have no internet connection!!</string>
+    <string name="txt_home_connecting">Connecting… Please wait.</string>
+    <string name="txt_home_disconnecting">Disconnecting… Please wait a second</string>
+    <string name="menu_title_server">Servers</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="set_up_new_pattern">Set up new pattern</string>
+    <string name="reset">Reset</string>
+    <string name="input_your_answer">Input your answer</string>
+    <string name="security_question">Security question:</string>
+    <string name="confirm">Confirm</string>
+    <string name="lock_pattern_confirmed_header">Confirmed Pattern</string>
+    <string name="forget_password">Forget Password</string>
+    <string name="set_your_pin_code">Set your PIN code</string>
+    <string name="enter_6_numbers">Enter 6 numbers</string>
+    <string name="both_pattern_did_not_match_try_again">Both Pattern did not match - Try again</string>
+    <string name="select_your_security_question">Select your security question?</string>
+    <string name="what_is_your_pet_name">What is your pet name?</string>
+    <string name="who_is_your_favorite_teacher">Who is your favorite teacher?</string>
+    <string name="who_is_your_favorite_actor">Who is your favorite actor?</string>
+    <string name="who_is_your_favorite_actress">Who is your favorite actress?</string>
+    <string name="who_is_your_favorite_cricketer">Who is your favorite cricketer?</string>
+    <string name="who_is_your_favorite_footballer">Who is your favorite footballer?</string>
+    <string name="please_select_a_question_and_write_an_answer">Please select a question and write an answer</string>
+    <string name="redraw_pattern">Re-Draw Pattern</string>
+    <string name="draw_pattern_to_lock">Draw pattern to unlock</string>
+    <string name="you_need_connect_4_dots">You need connect at least 4 dots</string>
+    <string name="invalid_password">Invalid password</string>
+    <string name="answer">Answer</string>
+    <string name="this_box_cannot_be_left_blank">This box cannot be left blank</string>
+    <string name="app_lock">App lock</string>
+    <string name="system_app">System app</string>
+    <string name="user_app">User app</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string name="tab_bar_all">All</string>
+    <string name="tab_bar_free">Free</string>
+    <string name="tab_bar_vip">VIP</string>
+
+    <string name="server_ad" translatable="false">Ad</string>
+    <string name="server_status_free">Server Free. Connect now !</string>
+    <string name="server_status_premium">Server Premium. Upgrade now !</string>
+
+    <string name="search">Search</string>
+
+    <string name="disconnected">Disconnected</string>
+    <string name="finish">Finish</string>
+    <string name="connected">Connected</string>
+
+    <string name="upgrade_plans">UPGRADE PLANS</string>
+    <string name="purchase_description">You can upgrade your plan at any time and enjoy the benefits of Premium membership</string>
+    <string name="purchase_fast_connect"><![CDATA[Unlimited Data & Speed]]></string>
+    <string name="purchase_fast_connect_description">Unlimited access speed, helping you process work faster</string>
+    <string name="purchase_ad_free">Remove All Ads</string>
+    <string name="purchase_ad_free_description">There will be no ads in the app, helping you to focus more</string>
+    <string name="purchase_premium">Worldwide Location</string>
+    <string name="purchase_premium_description">Provide multiple locations for premium internet access</string>
+    <string name="purchase_best_seller">Best Seller</string>
+    <string name="upgrade_now">UPGRADE NOW</string>
+    <string name="continue_to_use_for_free">Continue to use for free</string>
+    <!-- TODO:text in setting -->
+    <string name="setting">Setting</string>
+    <string name="select_country">Select country</string>
+    <string name="get_premium">Get Premium</string>
+    <string name="feedback">Feedback</string>
+    <string name="rate_us">Rate Us</string>
+    <string name="tell_your_friend">Tell your friend</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="title_message_feedback">Tell me things which are not correct:</string>
+    <string name="share_to">Share to</string>
+    <string name="send_mail">Send by</string>
+    <string name="txt_home_permission_deny">\"Permission Deny !! \"</string>
+
+    <string name="purchase_month">/ Month</string>
+    <string name="purchase_year">/ Year</string>
+    <string name="purchase_six_month">/ 6 Month</string>
+    <string name="instead_of">Instead of </string>
+    <string name="format_ping">Ping: %s ms</string>
+    <string name="empty">Empty</string>
+    <string name="please_wait_for_the_ad_to_finish_loading">Please wait for the ad to finish loading</string>
+    <string name="vpn_connection">VPN Connection</string>
+    <string name="no_network_connection_available_please_connect_your_wifi_network">No network connection available.\nPlease connect your network !</string>
+    <string name="agree">Agree</string>
+    <string name="connect_to_your_choice">Connect to your choice !</string>
+    <string name="connect_with_the_world_safely_and_quickly">Connect with The World safely and quickly</string>
+    <string name="trusted_vpn" translatable="false">TRUSTED<font fgcolor='#553894'> VPN</font></string>
+    <string name="loading_server_please_wait">Loading server. Please wait…</string>
+
+    <string name="txt_connecting">Connecting</string>
+    <string name="toast_time_out">Connect timeout, please try again!</string>
+
+    <string name="english" translatable="false">English</string>
+    <string name="portugal" translatable="false">Portuguese</string>
+    <string name="spain" translatable="false">Spanish</string>
+    <string name="franch" translatable="false">French</string>
+    <string name="india" translatable="false">Indian</string>
+    <string name="ad" translatable="false">Ad</string>
+    <string name="time_bonus" translatable="false">+ 60mins</string>
+    <string name="time_bonus_value" translatable="false">%s:%s mins</string>
+
+    <string name="language">Language</string>
+    <string name="time_remaining">Time remaining: %s</string>
+    <string name="time_up">Time up</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="change">Change</string>
+    <string name="can_not_select_server">Can\'t select server while connecting</string>
+
+    <string name="sdk_key_applovin" translatable="false">3N4Mt8SNhOzkQnGb9oHsRRG1ItybcZDpJWN1fVAHLdRagxP-_k_ZXVaMAdMe5Otsmp6qJSXskfsrtakfRmPAGW</string>
+
+
+    <string name="txt_kbytes_per_second"><![CDATA[<b>%.1f</b>]]> Kb/s</string>
+
+</resources>

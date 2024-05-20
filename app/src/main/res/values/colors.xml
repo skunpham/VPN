@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorPrimary">#6B46B9</color>
+    <color name="colorConnectStatus">#C9C9CF</color>
+    <color name="colorTitle">#402A6F</color>
+    <color name="colorTextSpeed">#61616B</color>
+    <color name="text">#031430</color>
+
+    <color name="transparent">#00FFFFFF</color>
+    <color name="app_tone">#8F73CA</color>
+    <color name="gray">#94949E</color>
+    <color name="color_text_server">#4A4A4F</color>
+    <color name="colorMenuInactive">#797986</color>
+
+    <color name="color_home_timer_connect">#2BDD3D</color>
+    <color name="color_home_timer_disconnect">#FFC727</color>
+
+    <color name="color_title_purchase">#2B1C4A</color>
+    <color name="color_purchase_title_child">#553894</color>
+    <color name="color_purchase_description_child">#797986</color>
+    <color name="color_bg_purchase_option">#E1DAF1</color>
+    <color name="color_border_purchase_option">#6B46B9</color>
+
+    <color name="color_setting_title_function">#4A4A4F</color>
+    <color name="color_background_item_language">#F9F9F9</color>
+    <color name="pink">#FBF8FF</color>
+
+    <color name="color_button_disable">#CFCFCF</color>
+    <color name="greyCE">#DEDEDE</color>
+    <color name="grey68">#686868</color>
+    <color name="greyBorderCE">#BFBFBF</color>
+</resources>
